@@ -16,5 +16,5 @@ for i in range(len(elementos)):
     if elementos[i] > elementos[maior]:
         maior = i
     
-print("O maior é o {}, que é {}".format(maior,elementos[maior]))
+print("O maior é o indice {}, que é {}".format(maior,elementos[maior]))
 
